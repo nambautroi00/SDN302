@@ -1,0 +1,21 @@
+{
+  "name": "ex20",
+  "version": "1.0.0",
+  "description": "Exercise 20: Cookies",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "connect-mongo": "^5.1.0",
+    "cookie-parser": "~1.4.4",
+    "express": "^5.2.1",
+    "express-session": "^1.18.0"
+  }
+}
